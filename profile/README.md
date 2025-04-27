@@ -6,7 +6,7 @@
       <b>Ai-Toys-Gen1</b> is a web application designed to provide an engaging and personalized experience with an AI chatbot.
     </td>
     <td align="center">
-      <img src="https://media.giphy.com/media/l41Yqxc9zEiQTYUPC/giphy.gif" width="200">
+      <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="200">
     </td>
   </tr>
 </table>
